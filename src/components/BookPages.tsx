@@ -163,7 +163,7 @@ export const ChapterOneP2 = () => {
          <div className="text-[#3A4031] text-[14px] leading-relaxed space-y-4 opacity-90 font-body z-10 pt-1">
            <p>And it’s not just about the words we say, either. Even the silence between us is so comfortable and deeply meaningful. We don't always need to fill the air with talking; just being in your presence is enough to make me feel safe and at peace.</p>
            <p>Alam ko naman na may mga times na medyo mayroon tayong hindi pagkakaintindihan. We have our rough days and minor misunderstandings, just like anyone else.</p>
-           <p>But what I love most about us is that alam kong maya-maya lang, magiging okay din tayong dalawa. We never let the bad moments win because we are just that powerful together. We choose each other, over and over again. Thank you for being my comfort zone, my biggest joy, and my best friend.</p>
+           <p>But what I love most about us is that alam kong maya-maya lang, magiging okay din tayong dalawa. We never let the bad moments win because we are just that powerful together. We choose each other, over and over again. Thank you for being my comfort zone, my biggest joy, and being my girlfriend.</p>
          </div>
        </div>
        <PageNumber number={2} />
